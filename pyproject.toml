@@ -16,4 +16,4 @@ hi-tbongkim03 = "hi_tbongkim03.hello:hi"
 
 
 [tool.pdm]
-distribution = false
+distribution = true
