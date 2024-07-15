@@ -10,7 +10,7 @@ requires-python = "==3.12.*"
 readme = "README.md"
 license = {text = "MIT"}
 
-[project.script]
+[project.scripts]
 hi-tbongkim03 = "hi_tbongkim03.hello:hi"
 
 
