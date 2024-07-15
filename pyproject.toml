@@ -1,6 +1,6 @@
 [project]
 name = "hi_tbongkim03"
-version = "0.1.0"
+version = "0.2.0"
 description = "Default template for PDM package"
 authors = [
     {name = "tbongkim03", email = "tbongkim03@gmial.com"},
@@ -12,4 +12,4 @@ license = {text = "MIT"}
 
 
 [tool.pdm]
-distribution = false
+distribution = true
